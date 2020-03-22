@@ -40,3 +40,15 @@ slow to work with. The startup sometimes took very long and it gave me strange e
 Nonetheless, it a good IDE with many convenient features that grew on me over time. Seems like it offers everything needed to develop for Android and I look forward to using it again soon.
 The task list application turned out to be a great way to learn about the basic concepts like the built-in Kotlin functions and methods. It's a good foundation to building more complex apps.
 In the beginning, I had to research some things like how passing intents between activities worked, but once I understood it, it became intuitive. Overall, a good first experience with Kotlin and Android Studio.
+
+## Screenshots
+
+![DefaultMessageForNoTasks](Screenshots/DefaultMessageForNoTasks.PNG)
+![HomeScreenWithSampleTasks](Screenshots/HomeScreenWithSampleTasks.PNG)
+![NewTaskAddedAndSorted](Screenshots/NewTaskAddedAndSorted.PNG)
+![SortingData](Screenshots/SortingData.PNG)
+![SwipeLeftToDeleteTasks](Screenshots/SwipeLeftToDeleteTasks.PNG)
+![TaskDetailScreen](Screenshots/TaskDetailScreen.PNG)
+![TaskDetailScreen2](Screenshots/TaskDetailScreen2.PNG)
+![TaskDetailScreen3Warning](Screenshots/TaskDetailScreen3Warning.PNG)
+![TaskDetailScreen4DateSelected](Screenshots/TaskDetailScreen4DateSelected.PNG)
